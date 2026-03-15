@@ -1,2 +1,2 @@
 # DevOps_Git
-Basic to advance level of git
+Basic to advance level of Git
